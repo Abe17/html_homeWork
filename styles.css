@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+        }
+
+h1 {
+    color: 	white;
+    padding-bottom: 5px;
+    font-size: 45px;
+    size: 150
+    
+   }
+
+.container {
+    width: 80X;
+    margin: 0 auto;
+
+}
+
+header {
+    background: #008B8B
+}
+
+ul {
+    margin: 0;
+    padding-bottom: 125%;
+    font-size: 200%;
+    list-style: none;
+
+
+}
